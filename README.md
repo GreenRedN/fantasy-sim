@@ -1,4 +1,4 @@
-# Fantasy Sim v2 (완성본)
+# Fantasy Sim
 
 멀티 모듈 Maven 프로젝트입니다.
 
